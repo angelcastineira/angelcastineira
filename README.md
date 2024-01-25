@@ -1,4 +1,4 @@
-### 👋 ¡Hey!, soy Ángel 👼
+## 👋 ¡Hey!, soy Ángel 👼
 
 Apasionado desarrollador en continua formación.
 
