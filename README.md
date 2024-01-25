@@ -1,16 +1,23 @@
-### Hi there 👋
+### 👋 ¡Hey!, soy Ángel 👼
 
-<!--
-**angelcastineira/angelcastineira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🟢 Desarrollador Full-Stack
+* 📚 Estudiante del Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma **en continua formación**
+* 📊 Mentalidad emprendedora y gran creatividad para el desarrollo de nuevos proyectos e ideas
+* 🗣️ Social y comunicativo permitiendo un clima de trabajo interdependiente
 
-Here are some ideas to get you started:
+### Tecnologías 👨‍💻
+<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Angel_Castiñeira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/angelcastineira)
+</br>
+<br>
+</br>
+<br>
+</br>
+Y alguna más...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Encuéntrame
+<br>
+</br>
+<br>
+</br>
+
