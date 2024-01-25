@@ -1,9 +1,17 @@
 ### 👋 ¡Hey!, soy Ángel 👼
 
-* 🟢 Desarrollador Full-Stack
-* 📚 Estudiante del Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma **en continua formación**
-* 📊 Mentalidad emprendedora y gran creatividad para la evolución de nuevos proyectos e ideas
-* 🗣️ Social y comunicativo permitiendo un clima de trabajo interdependiente
+Apasionado desarrollador en continua formación.
+
+Actualmente estoy acabando mis estudios superiores de Desarrollo de Aplicaciones Multiplataforma en Vigo. Mi sueño es poder aportar
+algún día una gran propuesta de
+valor en un proyecto internacionalmente
+reconocido, trabajando y aprendiendo de los mejores profesionales del sector IT.
+
+
+Me considero una persona con una mentalidad emprendedora y gran creatividad, mejorando así la escalabilidad y creación
+de nuevos proyectos.
+También tengo facilidad para la comunicación lo que, en mi opinión, favorece enormemente la interdependencia y el resultado del trabajo colectivo.
+
 
 ----
 
