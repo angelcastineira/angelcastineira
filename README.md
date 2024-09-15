@@ -31,6 +31,6 @@ Y alguna más...
 ---
 
 ### Encuéntrame 📥
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Angel_Castiñeira Duran-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/angelcastineiraduran)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Angel_Castineira Duran-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/angelcastineiraduran)
 <br>
 </br>
