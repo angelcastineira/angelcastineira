@@ -1,36 +1,34 @@
-## 👋 ¡Hey!, soy Ángel 👼
+# 👋 ¡Hey!, soy Ángel 👼 
 
-Apasionado desarrollador en continua formación.
+### 🚀 DevSecOps Engineer | CI/CD · Kubernetes · GitOps  
 
-Actualmente estoy acabando mis estudios superiores de Desarrollo de Aplicaciones Multiplataforma en Vigo. Mi sueño es poder aportar
-algún día una gran propuesta de
-valor en un proyecto internacionalmente
-reconocido, trabajando y aprendiendo de los mejores profesionales del sector IT.
+Apasionado de la ingeniería de software y la seguridad, con experiencia en **banca y seguros**, donde administro **pipelines CI/CD**, despliegues en **Kubernetes/OpenShift** y prácticas de **GitOps**.  
 
+Siempre en aprendizaje continuo, mi objetivo es aportar valor creando **sistemas escalables, seguros y fiables**, mientras colaboro con equipos multidisciplinares.  
 
-Me considero una persona con una mentalidad emprendedora y gran creatividad, mejorando así la escalabilidad y creación
-de nuevos proyectos.
-También tengo facilidad para la comunicación lo que, en mi opinión, favorece enormemente la interdependencia y el resultado del trabajo colectivo.
-
-
-----
-
-### Tecnologías 👨‍💻
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=coffeescript&logoColor=white&labelColor=101010)]()
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
-<br>
-[![HTML](https://img.shields.io/badge/HTML-e54c21?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
-[![CSS](https://img.shields.io/badge/CSS-3161a3?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
-</br>
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
-
-Y alguna más...
+💡 Mentalidad emprendedora · 🔐 Entusiasta de la seguridad · 🌍 Orientado a proyectos de impacto  
 
 ---
 
-### Encuéntrame 📥
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ángel_Castiñeira_Durán-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/angelcastineiraduran)
-<br>
-</br>
+### 🛠️ Tecnologías & Herramientas  
+
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()  
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()  
+[![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()  
+[![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=101010)]()  
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=101010)]()  
+[![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=red-hat-open-shift&logoColor=white&labelColor=101010)]()  
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()  
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=101010)]()  
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=101010)]()  
+[![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white&labelColor=101010)]()  
+[![Nexus](https://img.shields.io/badge/Nexus-1B1C1E?style=for-the-badge&logo=sonatype&logoColor=white&labelColor=101010)]()  
+[![ArgoCD](https://img.shields.io/badge/ArgoCD-FE4C61?style=for-the-badge&logo=argo&logoColor=white&labelColor=101010)]()  
+
+---
+
+### 📫 Contacto  
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/angelcastineiraduran)  
+- 💻 [GitHub](https://github.com/angelcastineiraduran)  
+- ✉️ angelcastineiraduran@gmail.com  
