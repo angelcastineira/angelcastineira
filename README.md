@@ -29,6 +29,5 @@ Siempre en aprendizaje continuo, mi objetivo es aportar valor creando **sistemas
 
 ### 📫 Contacto  
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/angelcastineiraduran)  
-- 💻 [GitHub](https://github.com/angelcastineiraduran)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/angelcastineira)  
 - ✉️ angelcastineiraduran@gmail.com  
